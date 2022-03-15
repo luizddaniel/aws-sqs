@@ -1,0 +1,4 @@
+boto3==1.21.3
+Faker==12.3.0
+moto==3.0.4
+python-decouple==3.6
